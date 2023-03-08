@@ -1,2 +1,2 @@
 # chronic-kidney-disease-prediction
- In this practicum, I will investigate the likelihood of a patient to suffer of chronic kidney disease.
+The goal of this project is to look at the factors that could be indicative of kidney failure and predict the likelihood of someone suffering from the disease. I approach the problem from two angles. I first looked at “Factors to be taken seriously at home” and then explored “Factors from a physician perspective”. I used a copy of the "kidney_disease" dataset from the data repository of the University of California Irvine (UCI). 
