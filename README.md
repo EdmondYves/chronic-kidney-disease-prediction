@@ -104,7 +104,7 @@ Chronic Kidney Disease and Anemia: corr = +0.33
 
 ![image](https://user-images.githubusercontent.com/122956155/223883004-5b51a7bd-379f-4bb7-8f19-698d52ea61fa.png)
 
-
+**Chronic Kidney Disease vs Pedal Edema: corr = +0.38**
 
 
 
