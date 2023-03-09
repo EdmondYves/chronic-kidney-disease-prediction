@@ -14,11 +14,11 @@ Chronic kidney disease is a pathology that affects the kidney, rendering it inef
 6. Model Evaluation
 7. Conclusions
 
-**1. Problem or Situation **
+**1. Problem or Situation**
 
 In this project, my goal is to look at the factors that could be indicative of kidney failure and predict the likelihood of someone suffering from the disease. I approach the problem from two angles. I first looked at “Factors to be taken seriously at home” and then explored “Factors from a physician perspective”. I used a copy of the "kidney_disease" dataset from the data repository of the University of California Irvine (UCI).
 
-**2. Research Question **
+**2. Research Question**
 
 - What are the factors increasing the likelihood of an individual 
    to suffer from ckd (chronic kidney disease)? 
@@ -59,8 +59,6 @@ It is a multivariate dataset made of real data. It has 400 Instances and 25 attr
 24) ane: Anemia(nominal)ane - (yes,no)
 25) classification: Class (nominal) class - (ckd, notckd)
 
-**3. The Data (Dataset)**
-
 **4. Methodology**
 The approach used to solve this problem will consist of different steps: 
 
@@ -90,20 +88,22 @@ Chronic Kidney Disease and Appetite: corr = -0.39
 Chronic Kidney Disease and Pedal Edema: corr = +0.38
 Chronic Kidney Disease and Anemia: corr = +0.33
 
-Determining Factors to be taken seriously at home: 
-Distribution of the target variable
+**Determining Factors to be taken seriously at home:** 
 
-![image](https://user-images.githubusercontent.com/122956155/223882295-684a85b5-fc11-4529-9300-a833bc730270.png)
+**Distribution of the target variable**
 
-Chronic Kidney Disease vs Anemia: corr = +0.33
+![image](https://user-images.githubusercontent.com/122956155/223883064-c15b580b-81d8-43cb-b2ce-311552d81de4.png)
 
-Distribution
+**Chronic Kidney Disease vs Anemia: corr = +0.33**
 
-![image](https://user-images.githubusercontent.com/122956155/223882477-819e0f48-9fb2-429a-baf6-e655c1122cff.png)
+**Distribution**
 
-CKD vs Anemia
+![image](https://user-images.githubusercontent.com/122956155/223883106-11edaa1c-ce2b-406c-b6c4-e52076ffab66.png)
 
-![image](https://user-images.githubusercontent.com/122956155/223882557-47e155a0-252d-4cab-ab6d-35010372dc5f.png)
+**CKD vs Anemia**
+
+![image](https://user-images.githubusercontent.com/122956155/223883004-5b51a7bd-379f-4bb7-8f19-698d52ea61fa.png)
+
 
 
 
